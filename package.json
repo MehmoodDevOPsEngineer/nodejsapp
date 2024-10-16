@@ -1,0 +1,24 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehmoodDevOPsEngineer/nodejsapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehmoodDevOPsEngineer/nodejsapp/issues"
+  },
+  "homepage": "https://github.com/MehmoodDevOPsEngineer/nodejsapp#readme",
+  "dependencies": {
+    "@azure/cosmos": "^4.1.1",
+    "express": "^4.21.1"
+  }
+}
